@@ -1,6 +1,6 @@
 <h1 align="center">Bekah Anderson</h1>
 <p align="center">
-  <b>Systems Specialist @PPGOH | Home Lab Enthusiast</b>
+  <b>Systems Specialist | Aspiring System Admin</b>
 </p>
 
 ---
@@ -31,14 +31,10 @@ I recently completed a full-scale deployment of an Active Directory environment.
   </a>
 </p>
 
-* **CompTIA A+ (220-1101):** ✅ **Passed Core 1** (Mobile Devices, Networking, Hardware, Virtualization)
-* **CompTIA A+ (220-1102):** 📅 **Scheduled for May 2026** (Operating Systems, Security, Troubleshooting)
+* **CompTIA A+ (220-1201):** ✅ **Passed Core 1** (Mobile Devices, Networking, Hardware, Virtualization)
+* **CompTIA A+ (220-1202):** 📅 **Scheduled for May 2026** (Operating Systems, Security, Troubleshooting)
 * **Continuing Education:** Actively expanding my hands-on knowledge of Windows Server and AD DS through my home lab projects.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 
