@@ -20,7 +20,7 @@ I am a detail-oriented **Systems Specialist** with a passion for building and se
 I recently completed a full-scale deployment of an Active Directory environment. 
 * **The Goal:** Build a functional forest (`beklabs.org`) and integrate a Win10 client.
 * **The Challenge:** Resolved critical DNS resolution hurdles to ensure successful domain joining.
-* **Check it out here:** [Windows Server & Active Directory Lab](REPLACE_WITH_YOUR_REPO_LINK)
+* **Check it out here:** [Windows Server & Active Directory Lab](https://github.com/beklabs/windows-server-ad-homelab)
 
 ---
 
